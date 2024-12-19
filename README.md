@@ -1,2 +1,1 @@
-# math385-Dask-vs-Pandas
-math384 project and presentation for performance comparison between Dask vs. Pandas
+Entire class is basically communist rhetoric. Prof would not stop yapping about blacks and cops
